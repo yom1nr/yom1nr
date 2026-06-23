@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yom1nr! 👋</h1>
-<h3 align="center">Full-Stack Developer based in Thailand</h3>
+<h3 align="center">Computer Engineering student in Thailand</h3>
 
 <p align="center">
   <a href="mailto:hotest224e@gmail.com">✉️ Contact me</a> • 
