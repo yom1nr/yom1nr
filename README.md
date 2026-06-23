@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 <div align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="30" height="30" alt="Python" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="30" height="30" alt="C" />
@@ -37,4 +37,4 @@
 </p>
 
 ### 📱 Connect with me
-[GitHub](https://github.com/yom1nr) | [YouTube](https://www.youtube.com/@yom1nr296) | [Discord](https://discord.com/users/MAYOM) | [Facebook](https://www.facebook.com/Phatsakorn Watthanawongsa)
+[GitHub](https://github.com/yom1nr) | [YouTube](https://www.youtube.com/@yom1nr296) | [Discord](https://discord.com/users/MAYOM) 
